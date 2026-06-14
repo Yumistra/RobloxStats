@@ -135,3 +135,7 @@ status-website:
  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+notifications:
+  - provider: discord
+    notificationBody: "🟥 $NAME ($URL) is **down** : $ISSUE"
+    notificationBodyUp: "🟩 $NAME ($URL) is **up** : $ISSUE"

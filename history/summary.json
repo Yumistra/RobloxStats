@@ -14,7 +14,7 @@
     "timeDay": 190,
     "timeWeek": 255,
     "timeMonth": 275,
-    "timeYear": 846,
+    "timeYear": 849,
     "dailyMinutesDown": {}
   },
   {
@@ -40,15 +40,15 @@
     "url": "https://developer.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/developer.roblox.com.ico",
     "slug": "roblox-devhub",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
-    "timeDay": 171,
-    "timeWeek": 219,
+    "timeDay": 182,
+    "timeWeek": 220,
     "timeMonth": 256,
     "timeYear": 339,
     "dailyMinutesDown": {}
@@ -300,7 +300,7 @@
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 31,
-    "timeWeek": 71,
+    "timeWeek": 66,
     "timeMonth": 588,
     "timeYear": 233,
     "dailyMinutesDown": {}

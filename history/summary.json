@@ -32,7 +32,7 @@
     "timeDay": 541,
     "timeWeek": 385,
     "timeMonth": 441,
-    "timeYear": 679,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   },
   {
@@ -130,17 +130,17 @@
     "url": "https://auth.roblox.com//",
     "icon": "https://icons.duckduckgo.com/ip3/auth.roblox.com.ico",
     "slug": "auth-api-endpoint",
-    "status": "down",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 37,
-    "timeWeek": 58,
-    "timeMonth": 63,
-    "timeYear": 137,
+    "time": 224,
+    "timeDay": 20290,
+    "timeWeek": 5119,
+    "timeMonth": 1254,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   },
   {

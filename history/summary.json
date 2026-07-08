@@ -292,17 +292,17 @@
     "url": "http://gamejoin.roblox.com//",
     "icon": "https://icons.duckduckgo.com/ip3/gamejoin.roblox.com.ico",
     "slug": "game-join-api-endpoint",
-    "status": "down",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 76,
-    "timeWeek": 127,
-    "timeMonth": 155,
-    "timeYear": 228,
+    "time": 222,
+    "timeDay": 599,
+    "timeWeek": 251,
+    "timeMonth": 181,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -374,7 +374,7 @@
     "timeDay": 88,
     "timeWeek": 155,
     "timeMonth": 129,
-    "timeYear": 203,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
